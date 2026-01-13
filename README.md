@@ -5,7 +5,7 @@ The tool works on Windows and Linux.
 
 ScDowngrade By [Daniil SV](https://github.com/Daniil-SV)
 
-[Official ScDowngrade Reporsitory](https://github.com/Daniil-SV/ScDowngrade)
+[Official ScDowngrade Repository](https://github.com/Daniil-SV/ScDowngrade)
 
 # Linux
 installing wine to launch ScDowngrade
