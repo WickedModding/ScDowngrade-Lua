@@ -20,6 +20,11 @@ io.write(lang['select_string'] .. "") local sc_version = io.read()
 print("Select your os:",'\n',"1. Windows",'\n',"2. Linux")
 io.write(lang['select_string'] .. " ") local select_os = io.read()
 
+if not sc_versions_list[sc_version] then
+  print("Sc Version Error")
+  return
+end
+
 -- conditions
 if select_os == "1" then
 os.execute("ScDowngrade.exe " .. sc_name .. " " .. sc_fixed_name .. " " .. sc_version)
@@ -27,7 +32,4 @@ elseif select_os == "2" then
 os.execute("wine ScDowngrade.exe " .. sc_name .. " " .. sc_fixed_name .. " " .. sc_version)
 else
 print("Error Number")
-end
-if not sc_version == sc_versions_list then
-	print("Version Error")
 end
