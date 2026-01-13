@@ -24,6 +24,6 @@ Enjoy your use :)
 
 ## Authors
 
-- [W1ckedOneshot](https://t.me/wic1k)
+- [W1ckedOneshot](https://t.me/W1cked_OneShot)
 - [Wic1k](https://t.me/wic1k)
 
