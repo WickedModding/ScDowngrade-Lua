@@ -4,9 +4,9 @@
 -- locals
 local sc_name, sc_fixed_name, select_os, os_variable, sc_version, lang, sc_versions_list
 local lang = {
- writescfile = "Write Your Sc Name:",
- writefixedscfile = "Write Fixed Sc Name:",
- select_string = "Your Select:" }
+ writescfile = "Write Your Sc Name: ",
+ writefixedscfile = "Write Fixed Sc Name: ",
+ select_string = "Your Select: " }
  local sc_versions_list = {
      ['0.5'] = true,
      ['1.0'] = true,
