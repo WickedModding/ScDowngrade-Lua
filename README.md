@@ -3,8 +3,9 @@ A simple lua tool for using ScDowngrade for inexperienced users
 This tool was written in one evening, thanks a lot to my friend Wicik for helping with the arguments
 The tool works on Windows and Linux.
 
-ScDowngrade By [Daniil Sv] (https://github.com/Daniil-SV)
-[Official ScDowngrade Reporsitory] (https://github.com/Daniil-SV/ScDowngrade)
+ScDowngrade By [Daniil SV](https://github.com/Daniil-SV)
+
+[Official ScDowngrade Reporsitory](https://github.com/Daniil-SV/ScDowngrade)
 
 # Linux
 installing wine to launch ScDowngrade
@@ -17,8 +18,12 @@ Arch
 ``` sh
 sudo pacman -S wine
 ```
+
 Enjoy your use :)
 
-# Contacts
-| Telegram | [W1ckedOneshot] (t.me/w1ckedoneshot) |
-| Telegram | [Wic1k] (t.me/w1cik) |
+
+## Authors
+
+- [W1ckedOneshot](https://t.me/wic1k)
+- [Wic1k](https://t.me/wic1k)
+
