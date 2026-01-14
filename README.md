@@ -1,5 +1,5 @@
 # ScDowngrade-Lua
-A simple lua tool for using ScDowngrade for inexperienced users.
+A simple lua tool for using [ScDowngrade](https://github.com/Daniil-SV/ScDowngrade) for inexperienced users.
 This tool was written in one evening, thanks a lot to my friend [Wicik](https://t.me/wic1k) for helping with the arguments.
 The tool works on Windows and Linux.
 
